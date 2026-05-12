@@ -1,20 +1,30 @@
-<P  align="center">
+<P align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=MD.MAHAFUZUR%20RAHMAN%20SHIMUL&fontSize=40" />
 </P>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Studying+Computer+Science+And+Technology" alt="Typing SVG" /></a>
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Engineer;React+19+Enthusiast;React+Router+v7+Expert;Full+Stack+Aspirant" alt="Typing SVG" /></a>
 </p>
-
 
 ---
 
-<br/><br/>
+### ⚡ About Me
+
+**I am a passionate Computer Science & Technology student and Frontend Developer specializing in modern web ecosystems.**
+
+I focus on building scalable applications using **React 19** and **Tailwind CSS v4**, ensuring a perfect balance between backend performance and sophisticated UI/UX design.
+
+- 🔭 **Current Focus:** Developing **KeenKeeper** with **React Router v7** and optimized state management.
+- ⚛️ **Learning:** Deep diving into **React 19** hooks (like `use()`) and **Next.js** advanced patterns.
+- 🎓 **Education:** Diploma in Computer Science & Technology (CST).
+- 🚀 **Mission:** Engineering seamless digital experiences with clean, maintainable code.
+
+<br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Kurigram%2C%20Dhaka%2C%20Bangladesh-2575FC?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Kurigram%2C%20Bangladesh-2575FC?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/md-mahafuzur-rahman-shimul-493665406/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -27,43 +37,9 @@
   </a>
 </p>
 
-
-
-
-
-### ⚡ About Me
-
-<strong>
-  
-I am a passionate Computer Science & Technology student currently in my 3rd year.
-
-I am focused on becoming a professional Full Stack Web Developer by building real-world projects and continuously improving my skills.
-
-</strong>
-
-<br/>
-
-- 🔭 **Current Focus:** Advanced React patterns and Backend optimization.
-- 📚 **Learning:** Deep diving into **Next.js** and Backend performance optimization.
-- 🎓 **Education:** Diploma in Computer Science & Technology (CST).
-- 🚀 **Mission:** Engineering the synergy between scalable system architecture and sophisticated UI/UX design.
-
-<br/>
-
-- 🌱 I’m currently learning **React.js,Next.js**
-
-- 📫 How to reach me **shimulislam01799802008@gmail.com**
-
-<br/>
-
-<hr/>
-
-
-<br/>
-
+---
 
 ## 💻 My Technology Stack 
-
 
 <table border="0" style="border: none;">
  <tr>
@@ -94,11 +70,20 @@ I am focused on becoming a professional Full Stack Web Developer by building rea
   <td width="35%" align="center" valign="middle" style="border: none;">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
   </td>
-  
  </tr>
-
 </table>
 
-<br/>
+---
+
+### 📊 GitHub Activity & Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimul811898&theme=radical" width="49%" />
+</p>
 
 ---
+
+<p align="center">
+  <i>"Building the future of the web, one component at a time."</i>
+</p>
+
