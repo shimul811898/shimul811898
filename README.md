@@ -1,5 +1,6 @@
 <P align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=MD.MAHAFUZUR%20RAHMAN%20SHIMUL&fontSize=40" />
+<img width="1584" height="396" alt="Blue and Yellow Modern Marketing LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/56361cd6-4d35-4f18-a799-15bf3145c97b" />
+
 </P>
 
 <p align="center">
