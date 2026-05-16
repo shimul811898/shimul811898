@@ -4,7 +4,7 @@
 </P>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Engineer;React+19+Enthusiast;React+Router+v7+Expert;Full+Stack+Aspirant" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Engineer;React+19+Enthusiast;React+Router+v7+Expert;Full+Stack+Aspirant" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -15,8 +15,8 @@
 
 I focus on building scalable applications using **React 19** and **Tailwind CSS v4**, ensuring a perfect balance between backend performance and sophisticated UI/UX design.
 
-- 🔭 **Current Focus:** Developing **KeenKeeper** with **React Router v7** and optimized state management.
-- ⚛️ **Learning:** Deep diving into **React 19** hooks (like `use()`) and **Next.js** advanced patterns.
+- 🔭 **Current Focus:** Advanced React patterns and Backend optimization.
+- 📚 **Learning:** Deep diving into **Next.js** and Backend performance optimization.
 - 🎓 **Education:** Diploma in Computer Science & Technology (CST).
 - 🚀 **Mission:** Engineering seamless digital experiences with clean, maintainable code.
 
