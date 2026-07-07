@@ -40,6 +40,11 @@ I focus on building scalable applications using **React 19** and **Tailwind CSS 
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
+<p align="center">
+  <a href="https://drive.google.com/file/d/10BRMlGeY2gJgXXmVJ9aw7FjO54y7Z0ck/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Download--Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
+  </a>
+</p>
 
 ---
 
