@@ -5,7 +5,7 @@
 </P>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Engineer;React+19+Enthusiast;React+Router+v7+Expert;Full+Stack+Aspirant" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=MERN+Stack+Web+Developer;Next.js+16;Express.js+5.2.1;React.js+19;React+Router+v7+Expert;Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 </p>
 
 ---
