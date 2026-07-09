@@ -31,7 +31,7 @@ I focus on building scalable applications using **React 19** and **Tailwind CSS 
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/md-mahafuzur-rahman-shimul-493665406/">
+<a href="https://www.linkedin.com/in/shimul02">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/shimul811898">
