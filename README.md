@@ -1,5 +1,6 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://github.com/user-attachments/assets/ad32958c-3c2b-4ebe-b5a7-1c17f424574c"  alt="1782154402679" /></a>
+<a href="https://git.io/typing-svg"><img alt="Blue and Yellow Modern Marketing LinkedIn Banner" src="https://github.com/user-attachments/assets/71e1f468-aee2-423e-9399-c244eed26da0" />
+</a>
 </p>
 
 </P>
